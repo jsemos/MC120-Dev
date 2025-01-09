@@ -1,0 +1,5 @@
+﻿  Lab2Exercise.c
+C:\Users\jksemos\source\repos\MC120LabExercise2\MC120LabExercise2\Lab2Exercise.c(42,11): warning C4098: 'mainLoop': 'void' function returning a value
+C:\Users\jksemos\source\repos\MC120LabExercise2\MC120LabExercise2\Lab2Exercise.c(46,11): warning C4098: 'mainLoop': 'void' function returning a value
+C:\Users\jksemos\source\repos\MC120LabExercise2\MC120LabExercise2\Lab2Exercise.c(76,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  MC120LabExercise2.vcxproj -> C:\Users\jksemos\source\repos\MC120LabExercise2\x64\Debug\MC120LabExercise2.exe

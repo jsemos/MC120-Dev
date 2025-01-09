@@ -1,0 +1,11 @@
+Name		Hour	Rate		Regular		Overtime	Net
+Luke White	50	12.00		480.00		180.00		660.00
+Melanie Pink	40	15.00		600.00		0.00		600.00
+Leonard Green	45	20.00		800.00		150.00		950.00
+Gloria Black	30	19.00		570.00		0.00		570.00
+
+===============================================================================================
+Number of employees: 4
+Grand total wage paid: K2780.00
+Leonard Green earned the most pay this week, K950.00
+===============================================================================================
